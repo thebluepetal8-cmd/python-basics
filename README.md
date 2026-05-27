@@ -11,3 +11,6 @@ This repository contains my Python learning journey.
 - ✅ Lesson 5 - String concatenation
 - ✅ Lesson 6 - Conditions (if/else)
 - ✅ Homework - Report card program
+- ✅ Lesson 7 - For loops
+- ✅ Lesson 8 - While loops
+- ✅ Lesson 9 - Lists
