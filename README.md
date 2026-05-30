@@ -10,7 +10,12 @@ This repository contains my Python learning journey.
 - ✅ Lesson 4 - Math operators
 - ✅ Lesson 5 - String concatenation
 - ✅ Lesson 6 - Conditions (if/else)
-- ✅ Homework - Report card program
 - ✅ Lesson 7 - For loops
 - ✅ Lesson 8 - While loops
 - ✅ Lesson 9 - Lists
+- ✅ Lesson 10 - Dictionaries
+- ✅ Maths 1 - Binary & Linear equations
+- ✅ Project 1 - Quiz App 🎯
+
+## Projects
+- 🎯 Quiz App — A Python quiz with scoring and grading system
