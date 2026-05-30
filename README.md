@@ -19,3 +19,4 @@ This repository contains my Python learning journey.
 
 ## Projects
 - 🎯 Quiz App — A Python quiz with scoring and grading system
+- ✅ Project 2 - Expense Tracker 💰
